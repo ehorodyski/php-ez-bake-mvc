@@ -3,7 +3,7 @@ REST PHPlease is a solution to a problem I've encountered all too often building
 needing a lightweight RESTful API implementation to transport data between PHP/MySQL server-sides and JavaScript 
 front-ends.
 
-Don't be mislead, this is not a comprehensive REST solution for PHP. But, for projects that have limited-scope, 
+Don't be mislead, this is not a comprehensive REST solution for PHP. For projects that have limited-scope, 
 limited-complexity, and especially limited-budget, this is a simple scaffold to help separate concerns and provide
 additional RESTful functionality to your projects.
 
