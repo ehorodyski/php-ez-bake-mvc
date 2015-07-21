@@ -9,3 +9,8 @@ additional RESTful functionality to your projects.
 
 ## How it Works
 To be added.
+
+## Contributing
+This project is under [MIT License](https://github.com/ehorodyski/rest-phplease/blob/master/LICENSE). 
+
+Feel free to download, copy, fork, or do whatever you'd like with this code.  
